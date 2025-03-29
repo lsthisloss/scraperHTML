@@ -1,5 +1,6 @@
-## scraperHTML
-Simple tus.si catalogs scraper and pdf downloader using NodeJS in CommonJS style    
+## scraperHTML simple tus.si catalogs scraper and pdf downloader using NodeJS in CommonJS style    
+
+Application as it self represent a simple CatalogScraper class that be instantiated multiple times, each with its own independent state.      
 ## How to run   
 npm install 
 node index.js    
