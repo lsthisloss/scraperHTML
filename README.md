@@ -1,5 +1,5 @@
 ## scraperHTML
-Simple tus.si catalogs scraper and pdf downloader using NodeJS     
+Simple tus.si catalogs scraper and pdf downloader using NodeJS in CommonJS style    
 ## How to run    
 node index.js    
 ##
