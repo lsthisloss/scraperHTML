@@ -1,4 +1,4 @@
-## scraperHTML simple tus.si catalogs scraper and pdf downloader using NodeJS in CommonJS style    
+## Web scraper and pdf downloader using NodeJS in CommonJS style    
 A simple web scraper following KISS principle
 ## Features
 
