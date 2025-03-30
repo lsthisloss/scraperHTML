@@ -1,10 +1,11 @@
 ## scraperHTML simple tus.si catalogs scraper and pdf downloader using NodeJS in CommonJS style    
-
+A simple web scraper following KISS principle
 ## Features
 
 - Fetches catalog data from a website.
 - Saves catalog information in a `catalogues.json` file.
 - Downloads PDF files for each catalog.
+- Easy to use
 
 ## Example `catalogues.json`
 
