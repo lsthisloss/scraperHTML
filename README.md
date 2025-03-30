@@ -30,7 +30,7 @@ A simple web scraper following KISS principle
 ```
 
 ## How to run   
-npm install 
+npm install     
 node index.js    
 
 ## Demo
